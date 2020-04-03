@@ -3,7 +3,7 @@ Permet d'afficher l'évolution du covid-19 sur le display incorporé.<br>
 <br>
 Plusieurs pays seront accessibles ( 5 actuellement )<br>
 Explications : 
-  
+  Country : Belgium<br>
   Coronavirus Cases: 13,96<br>
   Deaths : 828 Recovered : 2,132<br>
   Active Cases : 11,004<br>
