@@ -6,9 +6,9 @@ Plusieurs pays seront accessibles ( 5 actuellement )
 
 Explications : 
 
-Coronavirus Cases: 13,964 
+Coronavirus Cases: 13,964
 Deaths : 828 Recovered : 2,132
-Active Cases : 11,004 
+Active Cases : 11,004
 in Mild Condition : 9,916 (90%)
 Closed Cases : 2,960 
 Recovered / Discharged : 2,132 (72%) 
