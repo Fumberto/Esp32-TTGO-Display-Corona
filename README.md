@@ -12,6 +12,7 @@ Explications :<br>
   Recovered / Discharged : 2,132 (72%)<br>
   Deaths : 828 (28%)<br>
 
+lien youtube : https://youtu.be/i_UzwnT5UJ4<br>
 
 ![images](https://github.com/Fumberto/Esp32-TTGO-Display-Corona/blob/master/covid19.jpg)
 
