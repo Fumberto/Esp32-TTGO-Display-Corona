@@ -14,6 +14,8 @@ Explications :<br>
 
 lien youtube : https://youtu.be/i_UzwnT5UJ4<br>
 
+i have had portugal country
+
 ![images](https://github.com/Fumberto/Esp32-TTGO-Display-Corona/blob/master/covid19.jpg)
 
 
