@@ -87,7 +87,7 @@ void loop() {
       country="spain";
       break;
       case 6:
-      country="us";
+      country="portugal";
       break;
    }      
  
